@@ -1,6 +1,6 @@
 # Pac-Man-Unity-3D-Game
 
-[Click here to play the game](https://rahuldshetty.github.io/Pac-Man-Unity-3D-Game/Web/index.html)
+[Click here to play the game](https://rahuldshetty.github.io/Pac-Man-Unity-3D-Game/Release/)
 
 # Controls
 
